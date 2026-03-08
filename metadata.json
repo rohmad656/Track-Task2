@@ -1,0 +1,5 @@
+{
+  "name": "Collaborative Task Tracker",
+  "description": "A high-performance, interactive task management application with Firebase authentication and real-time data persistence.",
+  "requestFramePermissions": []
+}
